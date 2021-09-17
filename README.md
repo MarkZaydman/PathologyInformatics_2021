@@ -13,3 +13,8 @@ Mark A. Zaydman
 |TestAccuracy_Activity.pdf|Activity|Goup Activity for Accuracy Lecture|
 |TestAccuracy_Handout.pdf|Handout|Handout Covering Lecture Materials in Detail|
 |TestAccuracy_Slides.pdf|Slides|Slides for Accuracy Lecture|
+
+
+## Ways to report errata
+1. Report error in issues tab
+2. Email (zaydmanm@wustl.edu)
