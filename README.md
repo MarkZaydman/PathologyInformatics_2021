@@ -14,6 +14,7 @@ Mark A. Zaydman
 |TestAccuracy_Handout.pdf|Handout|Handout Covering Lecture Materials in Detail|
 |TestAccuracy_Slides.pdf|Slides|Slides for Accuracy Lecture|
 |TestValue_Slides.pdf|Slides|Slides for Value Lecture|
+|TestUtilization_Slides.pdf|Slides|Slides for Utilization Lecture|
 
 
 ## Ways to report errata
